@@ -1,1 +1,12 @@
 milkbook-resources/
+# Backend
+milkbook-backend/venv/
+milkbook-backend/__pycache__/
+
+# Frontend
+milkbook-frontend/node_modules/
+milkbook-frontend/.next/
+
+# Env
+.env
+.env.*
